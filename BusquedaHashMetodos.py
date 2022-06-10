@@ -1,5 +1,4 @@
 #Alejandro Álvarez Patiño
-#1053863761
 ####Métodos de búsqueda Hash
 
 ##Módulo
